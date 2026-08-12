@@ -71,7 +71,7 @@ import React, { useState } from 'react';
  priorityBtn: { flex: 1, borderWidth: 2, borderRadius: 8,
  paddingVertical: 8, alignItems: 'center' },
  priorityText: { fontSize: 13, fontWeight: '600', color: '#374151' },
- addBtn: { backgroundColor: '#1A56DB', borderRadius: 8, padding: 14,
+ addBtn: { backgroundColor: '#06f9d1', borderRadius: 8, padding: 14,
  alignItems: 'center' },
  addBtnText: { color: 'FFFFFF', fontSize: 16, fontWeight: 'bold' },
  });
